@@ -20,7 +20,7 @@ def fetch_recommendations(title, score):
 
 
 st.set_page_config(page_title="Student Performance Analysis", layout="wide")
-st.title("Student Performance Analysis and Recommendations")
+st.title("Student Performance Analysis / Student Persona  and Recommendations")
 
 with st.sidebar:
     st.header("Input Parameters")
