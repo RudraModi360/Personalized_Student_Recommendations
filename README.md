@@ -4,7 +4,7 @@
   <p align="center">
     A Streamlit app for visualizing student performance and providing personalized recommendations.
     <br />
-    <a href="https://github.com/yourusername/student-performance-analysis">View Demo</a>
+    <a href="https://drive.google.com/file/d/1QlA72cfUAUsV8plKaY2uaXlpn4TqQ5c6/view?usp=sharing">View Demo</a>
     &middot;
     &middot;
   </p>
@@ -40,15 +40,19 @@
 
 ## About The Project
 
-[![Average Time Taken by user][product-screenshot]](https://drive.google.com/file/d/1djRzuQaMWfGFHXvGK1wb_kzZIsbFGDkt/view?usp=drive_link)
+[![Average Time Taken by user](img_vid\Time.png)](img_vid\Time.png)
+Average Time Taken By User
 
-[![Average Initial Mistake Done by user][product-screenshot]](https://drive.google.com/file/d/1aK8cqhrzma-qcsFcX29YC7AIm6Ag1Hrs/view?usp=drive_link)
+[![Average Initial Mistake Done by user](img_vid\Mistake.png)](img_vid\Mistake.png)
+Average Mistakes Done By User
 
-[![Average Score of user][product-screenshot]](https://drive.google.com/file/d/1ITYkoIOYAIIcdq35eWIWMG_I-SAHhcb5/view?usp=drive_link)
+[![Average Score of user](img_vid\Avg_Score.png)](img_vid\Avg_Score.png)
+Average Score of User
 
-[![Average Accuracy of user][product-screenshot]](https://drive.google.com/file/d/1apDPvpLlftQ9k5U6aNJHu32YR2-tTLEa/view?usp=drive_link)
+[![Average Accuracy of user](img_vid\Avg_Acc.png)](img_vid\Avg_Acc.png)
+Average Accuracy for problem solving of User
 
-This project is a Streamlit web application designed to visualize and analyze student performance across various metrics such as score, accuracy, mistake count, and time. It also provides personalized recommendations based on the student's quiz performance.
+- This project is a Streamlit web application designed to visualize and analyze student performance across various metrics such as score, accuracy, mistake count, and time. It also provides personalized recommendations based on the student's quiz performance.
 
 ### Key Features:
 
@@ -84,7 +88,7 @@ This project requires Python and Streamlit to be installed. Make sure you have t
 You can install the required dependencies by running the following command:
 
 ```bash
-  pip install streamlit requests matplotlib
+pip install streamlit requests matplotlib
 ```
 
 ### Installation
@@ -101,10 +105,10 @@ You can install the required dependencies by running the following command:
    ```bash
    streamlit run app.py
    ```
-4. Run the Server 
-    ```bash 
-    uvicorn Server:app
-    ```
+4. Run the Server
+   ```bash
+   uvicorn Server:app
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
