@@ -40,16 +40,16 @@
 
 ## About The Project
 
-[![Average Time Taken by user](img_vid\Time.png)](img_vid\Time.png)
+[![Average Time Taken by user](img_vid/Time.png)](img_vid/Time.png)
 Average Time Taken By User
 
-[![Average Initial Mistake Done by user](img_vid\Mistake.png)](img_vid\Mistake.png)
+[![Average Initial Mistake Done by user](img_vid/Mistake.png)](img_vid/Mistake.png)
 Average Mistakes Done By User
 
-[![Average Score of user](img_vid\Avg_Score.png)](img_vid\Avg_Score.png) 
+[![Average Score of user](img_vid/Avg_Score.png)](img_vid/Avg_Score.png) 
 Average Score of User
 
-[![Average Accuracy of user](img_vid\Avg_Acc.png)](img_vid\Avg_Acc.png)
+[![Average Accuracy of user](img_vid/Avg_Acc.png)](img_vid/Avg_Acc.png)
 Average Accuracy for problem solving of User
 
 - This project is a Streamlit web application designed to visualize and analyze student performance across various metrics such as score, accuracy, mistake count, and time. It also provides personalized recommendations based on the student's quiz performance.
