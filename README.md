@@ -46,7 +46,7 @@ Average Time Taken By User
 [![Average Initial Mistake Done by user](img_vid\Mistake.png)](img_vid\Mistake.png)
 Average Mistakes Done By User
 
-[![Average Score of user](img_vid\Avg_Score.png)](img_vid\Avg_Score.png)
+[![Average Score of user](img_vid\Avg_Score.png)](img_vid\Avg_Score.png) 
 Average Score of User
 
 [![Average Accuracy of user](img_vid\Avg_Acc.png)](img_vid\Avg_Acc.png)
